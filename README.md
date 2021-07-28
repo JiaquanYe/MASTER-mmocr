@@ -1,4 +1,4 @@
-  <h1 align="left">MASTER_mmocr</h1>
+  <h1 align="left">MASTER-mmocr</h1>
 
 
 
@@ -51,8 +51,6 @@ This project is a re-implementation of [MASTER: Multi-Aspect Non-local Network f
 
 ## Getting Started
 
-You can setup the enrivonment  step by step
-
 ### Prerequisites
 
 + Use Synthetic image datasets: [SynthText (Synth800k)](https://www.robots.ox.ac.uk/~vgg/data/scenetext/), [MJSynth (Synth90k)](https://www.robots.ox.ac.uk/~vgg/data/text/) for training.
@@ -65,7 +63,7 @@ You can setup the enrivonment  step by step
 
 1. Clone the repo
    ```sh
-   git clone 
+   git clone git@github.com:JiaquanYe/MASTER-mmocr.git
    ```
    
 2. Install mmdetection. click [here](https://github.com/open-mmlab/mmdetection/blob/v2.11.0/docs/get_started.md) for details.
@@ -117,7 +115,7 @@ CUDA_VISIBLE_DEVICES=0 PORT=29500 ./tools/dist_train.sh ./configs/textrecog/mast
 
 PS : 
 
-​		As mentioned in **Prerequisites** part, we use synthetic image datasets for training and real image datasets for evalutating. The 7 real image datasets mentioned above will be evaluated at each evaluation interval. 
++ As mentioned in **Prerequisites** part, we use synthetic image datasets for training and real image datasets for evalutating. The 7 real image datasets mentioned above will be evaluated at each evaluation interval. 
 
 
 
