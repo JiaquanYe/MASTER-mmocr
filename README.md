@@ -61,7 +61,7 @@ This project is a re-implementation of [MASTER: Multi-Aspect Non-local Network f
 
 ### Installation
 
-2. Install mmdetection. click [here](https://github.com/open-mmlab/mmdetection/blob/v2.11.0/docs/get_started.md) for details.
+1. Install mmdetection. click [here](https://github.com/open-mmlab/mmdetection/blob/v2.11.0/docs/get_started.md) for details.
    
    ```sh
    # We embed mmdetection-2.11.0 source code into this project.
@@ -70,7 +70,7 @@ This project is a re-implementation of [MASTER: Multi-Aspect Non-local Network f
    pip install -v -e .
    ```
    
-3. Install mmocr. click [here](https://github.com/open-mmlab/mmocr/blob/main/docs/install.md) for details.
+2. Install mmocr. click [here](https://github.com/open-mmlab/mmocr/blob/main/docs/install.md) for details.
 
    ```sh
    # install mmocr
@@ -78,7 +78,7 @@ This project is a re-implementation of [MASTER: Multi-Aspect Non-local Network f
    pip install -v -e .
    ```
 
-4. Install mmcv-full-1.3.4. click [here](https://github.com/open-mmlab/mmcv) for details.
+3. Install mmcv-full-1.3.4. click [here](https://github.com/open-mmlab/mmcv) for details.
 
    ```sh
    pip install mmcv-full=={mmcv_version} -f https://download.openmmlab.com/mmcv/dist/{cu_version}/{torch_version}/index.html
