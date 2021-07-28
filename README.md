@@ -61,11 +61,6 @@ This project is a re-implementation of [MASTER: Multi-Aspect Non-local Network f
 
 ### Installation
 
-1. Clone the repo
-   ```sh
-   git clone git@github.com:JiaquanYe/MASTER-mmocr.git
-   ```
-   
 2. Install mmdetection. click [here](https://github.com/open-mmlab/mmdetection/blob/v2.11.0/docs/get_started.md) for details.
    
    ```sh
