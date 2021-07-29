@@ -10,7 +10,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#Dependency">Dependency</a></li>
       </ul>
     </li>
     <li>
@@ -30,6 +30,7 @@
 
 
 
+
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
@@ -39,7 +40,7 @@ This project is a re-implementation of [MASTER: Multi-Aspect Non-local Network f
 ![MASTER's architecture](./imgs/architecture.jpg)
 
 
-### Built With
+### Dependency
 
 * [MMOCR-0.2.0](https://github.com/open-mmlab/mmocr/tree/v0.2.0)
 * [MMDetection-2.11.0](https://github.com/open-mmlab/mmdetection/tree/v2.11.0)
@@ -127,6 +128,14 @@ PS :
 |  IC15   |          79.4           |    80.95     |
 |  SVTP   |          84.5           |    84.34     |
 | CUTE80  |          87.5           |    90.62     |
+
+
+
+<!-- COMING SOON -->
+
+## Coming Soon
+
++ 1st Solution for ICDAR 2021 Competition on Scientific Table Image Recognition to Latex.
 
 
 
