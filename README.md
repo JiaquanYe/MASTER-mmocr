@@ -22,11 +22,13 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#result">Result</a></li>
+    <li><a href="#coming-soon">Coming Soon</a></li>
     <li><a href="#license">License</a></li>  
     <li><a href="#Citations">Citations</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
+
 
 
 
@@ -171,3 +173,4 @@ If you find MASTER useful please cite [paper](https://arxiv.org/abs/1910.02562):
 * [MASTER-pytorch](https://github.com/wenwenyu/MASTER-pytorch)
 * [MASTER-TF](https://github.com/jiangxiluning/MASTER-TF)
 * [OpenMMLab](https://github.com/open-mmlab)
+* [TableMASTER-mmocr](https://github.com/JiaquanYe/TableMASTER-mmocr)
